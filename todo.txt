@@ -1,0 +1,5 @@
+- Régler le bug du user checker 
+
+    * Losqu'on tente de s'autentifier, il ne reconnait pas le $user dans la méthode preAuth...
+
+    * Filtre de tags 
